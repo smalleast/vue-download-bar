@@ -10,7 +10,6 @@
   </div>
 </template>
 <script type="text/javascript">
-  import nx from 'nx-js-core';
   import browser from 'nx-browser';
 
   export default {

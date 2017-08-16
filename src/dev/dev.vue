@@ -7,6 +7,7 @@
 </template>
 <script>
   import VueDownloadBar from '../components/download-bar.vue'
+  import nx from 'next-js-core2';
 
   export default {
     data() {

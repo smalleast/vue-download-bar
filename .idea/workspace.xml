@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc64b063-7969-4c2f-9ed8-8c4fd15c6601" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/download-bar.vue" afterPath="$PROJECT_DIR$/src/components/download-bar.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/dev/dev.vue" afterPath="$PROJECT_DIR$/src/dev/dev.vue" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,21 +25,20 @@
             <state relative-caret-position="-216">
               <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
               <folding>
-                <marker date="1502877092929" expanded="true" signature="806:2297" ph="{&quot;autoprefixer&quot;: &quot;^6.4.0&quot;...}" />
+                <marker date="1502880035747" expanded="true" signature="806:2352" ph="{&quot;autoprefixer&quot;: &quot;^6.4.0&quot;...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="download-bar.vue" pinned="false" current-in-tab="true">
+      <file leaf-file-name="download-bar.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/download-bar.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-432">
-              <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            <state relative-caret-position="297">
+              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
               <folding>
-                <element signature="e#254#282#0" expanded="true" />
-                <element signature="e#920#1134#0" expanded="false" />
-                <element signature="e#1190#1227#0" expanded="false" />
+                <element signature="e#889#1103#0" expanded="false" />
+                <element signature="e#1159#1196#0" expanded="false" />
                 <element signature="n#style#0;n#!!top" expanded="false" />
               </folding>
             </state>
@@ -75,12 +75,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dev.vue" pinned="false" current-in-tab="false">
+      <file leaf-file-name="dev.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/dev/dev.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-              <folding />
+            <state relative-caret-position="594">
+              <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+              <folding>
+                <element signature="e#160#219#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dev.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dev.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,8 +112,8 @@
       <file leaf-file-name="README.MD" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.MD">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+            <state relative-caret-position="456">
+              <caret line="88" column="10" lean-forward="false" selection-start-line="88" selection-start-column="10" selection-end-line="88" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -135,6 +149,7 @@
     <findStrings>
       <find>status-manager</find>
       <find>StatusManager</find>
+      <find>nx</find>
     </findStrings>
     <replaceStrings>
       <replace>download-bar</replace>
@@ -151,13 +166,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/README.MD" />
         <option value="$PROJECT_DIR$/build/webpack.prod.conf.js" />
         <option value="$PROJECT_DIR$/src/main.js" />
         <option value="$PROJECT_DIR$/src/components/utils.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/src/dev/dev.vue" />
+        <option value="$PROJECT_DIR$/README.MD" />
         <option value="$PROJECT_DIR$/src/components/download-bar.vue" />
+        <option value="$PROJECT_DIR$/src/dev/dev.vue" />
       </list>
     </option>
   </component>
@@ -217,18 +232,6 @@
               <item name="vue-download-bar" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="vue-download-bar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-download-bar" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue-download-bar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-download-bar" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dev" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -265,12 +268,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1502871098157</updated>
-      <workItem from="1502871099373" duration="7430000" />
+      <workItem from="1502871099373" duration="8657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7430000" />
+    <option name="totallyTimeSpent" value="8657000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="69" y="0" width="1860" height="1084" extended-state="0" />
@@ -319,20 +322,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.MD">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-216">
           <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
           <folding>
-            <marker date="1502877092929" expanded="true" signature="806:2297" ph="{&quot;autoprefixer&quot;: &quot;^6.4.0&quot;...}" />
+            <marker date="1502880035747" expanded="true" signature="806:2352" ph="{&quot;autoprefixer&quot;: &quot;^6.4.0&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -369,14 +364,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dev/dev.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -393,15 +380,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dist/vue-download-bar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-167">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.MD">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="88" column="10" lean-forward="false" selection-start-line="88" selection-start-column="10" selection-end-line="88" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/download-bar.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-432">
-          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        <state relative-caret-position="297">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
           <folding>
-            <element signature="e#254#282#0" expanded="true" />
-            <element signature="e#920#1134#0" expanded="false" />
-            <element signature="e#1190#1227#0" expanded="false" />
+            <element signature="e#889#1103#0" expanded="false" />
+            <element signature="e#1159#1196#0" expanded="false" />
             <element signature="n#style#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dev/dev.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <folding>
+            <element signature="e#160#219#0" expanded="true" />
           </folding>
         </state>
       </provider>

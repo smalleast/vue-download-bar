@@ -57,6 +57,7 @@
     "json-loader": "^0.5.4",
     "lolex": "^1.4.0",
     "next-browser": "github:afeiship/next-browser",
+    "next-js-core2": "github:smalleast/next-js-core2",
     "node-sass": "^3.13.0",
     "nx-browser": "github:smalleast/nx-browser",
     "nx-js-core": "github:smalleast/nx-js-core",
